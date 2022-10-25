@@ -3,6 +3,6 @@ Sales Invoice Generator
 
 # Run The App
 
-cd target/classes
+cd target
 
-java -cp commons-csv-1.9.0.jar:0. com.invoice.App
+java -cp sales-invoice-app-1.0-SNAPSHOT.jar com.invoice.App
